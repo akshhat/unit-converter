@@ -1,0 +1,35 @@
+body {
+	background-image: linear-gradient(to right, #2af598 0%, #009efd 100%);
+}
+
+#heading {
+	font-weight: bold;
+	font-size: 35px;
+}
+
+#title {
+	color: #0182c5;
+}
+
+#main {
+	margin-top: 15vh;
+}
+
+#shadow {
+	box-shadow: 4px 7px 12px 1px #545b62;
+}
+
+#input1, #input2 {
+	height: 60px;
+	font-size: 20px;
+	text-align: center;
+}
+
+#equal {
+	font-size: 2.2rem;
+	margin-top: 20px;
+}
+
+option {
+	border: none;
+}
